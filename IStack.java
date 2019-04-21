@@ -8,10 +8,8 @@
  *
  * @author Flampeyeiry Diaz
  */
-public class Node {
-    public int number;
-    public Node next;
-    public Node(int number){
-        this.number = number;
-    }
+public interface IStack {
+    void push(int number);
+    Integer pop();
+    int count();
 }
