@@ -1,4 +1,4 @@
-# CarbonBlack Exercise
+# Data Structures Exercises
 
 #### How to execute it:
 
