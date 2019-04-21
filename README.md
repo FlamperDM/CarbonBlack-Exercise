@@ -2,18 +2,18 @@
 
 #### How to execute it:
 
-Open the terminal, go to the folder, and insert the next commands:
+Open the terminal, go to the 'src' folder, and insert the next commands:
 
 To compile it:
 
 ```shell
-javac CBMain.java
+javac App.java
 ```
 
 To execute it:
 
 ```shell
-java CBMain
+java App
 ```
 
 
