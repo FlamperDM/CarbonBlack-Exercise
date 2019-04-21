@@ -24,6 +24,6 @@ java CBMain
 
 - Now implement an object or extend the previous object to implement methods called ‘Queue’ and ‘Dequeue’.  This object should also be able to handle integer values passed to Queue and should be able to give back an integer value from Dequeue in “queue order” (i.e. First In, First Out - FIFO).
 
-- Implement an Stack using only Queue
+- Implement a Stack using only Queue
 
-- Implement an Queue using only Stack
+- Implement a Queue using only Stack
